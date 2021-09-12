@@ -3,6 +3,8 @@ class UsersController < ApplicationController
 
   # GET /users or /users.json
   def index
+    # @記号で始まる変数をRubyではインスタンス変数と呼び、
+    # Railsのコントローラ内で宣言したインスタンス変数はビューでも使えるようになります
     @users = User.all
   end
 
