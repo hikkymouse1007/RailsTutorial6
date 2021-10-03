@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-- Ruby version
-
-- System dependencies
-
-- Configuration
-
-- Database creation
-
-- Database initialization
-
-- How to run the test suite
-
-- Services (job queues, cache servers, search engines, etc.)
-
-- Deployment instructions
-
-- ...
+Rails 6 の jQuery 環境構築
+https://techracho.bpsinc.jp/hachi8833/2021_05_06/83678
+https://qiita.com/kazutosato/items/d47b7705ee545de4cb1a
